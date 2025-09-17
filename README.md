@@ -636,5 +636,4 @@ export const signupSchema = yup.object({
     .required('Confirm password is required'),
 });
 ```
-#   m e d r e s v e r - a i  
- 
+#
